@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: https://edoffice.kku.ac.th/e-portfolio/pgslot/sitemap.xml
